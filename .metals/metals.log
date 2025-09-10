@@ -244,3 +244,18 @@ WARNING: Unmatched cancel notification for request id 174
 2025.09.10 22:53:41 INFO  Scala CLI: 
 2025.09.10 22:53:45 INFO  compiling scala_beakjoon_d5c0a6989e (1 scala source)
 2025.09.10 22:53:46 INFO  time: compiled Scala_Beakjoon_d5c0a6989e in 1.13s
+2025.09.10 22:57:27 INFO  Detected new build tool in /Users/mac/Desktop/GitHub/Scala_Beakjoon
+2025.09.10 22:57:28 INFO  Cancelling compilation on scala-cli server
+2025.09.10 22:57:28 INFO  Shut down connection with build server.
+2025.09.10 22:57:28 INFO  Scala main classes not supported by server
+2025.09.10 22:57:28 INFO  Scala test classes not supported by server
+2025.09.10 22:57:28 INFO  Attempting to connect to the build server...
+2025.09.10 22:57:28 INFO  Running BSP server List(/Users/mac/Library/Caches/Coursier/arc/https/github.com/scala/scala3/releases/download/3.7.2/scala3-3.7.2-x86_64-apple-darwin.tar.gz/scala3-3.7.2-x86_64-apple-darwin/libexec/scala-cli, --cli-default-scala-version, 3.7.2, --repository, file:///Users/mac/Library/Caches/Coursier/arc/https/github.com/scala/scala3/releases/download/3.7.2/scala3-3.7.2-x86_64-apple-darwin.tar.gz/scala3-3.7.2-x86_64-apple-darwin/maven2, --prog-name, scala, --skip-cli-updates, bsp, --json-options, /Users/mac/Desktop/GitHub/Scala_Beakjoon/.scala-build/ide-options-v2.json, --json-launcher-options, /Users/mac/Desktop/GitHub/Scala_Beakjoon/.scala-build/ide-launcher-options.json, --envs-file, /Users/mac/Desktop/GitHub/Scala_Beakjoon/.scala-build/ide-envs.json, /Users/mac/Desktop/GitHub/Scala_Beakjoon/16394.scala)
+2025.09.10 22:57:28 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/mac/Desktop/GitHub/Scala_Beakjoon/.metals/bsp.trace.json or /Users/mac/Library/Caches/org.scalameta.metals/bsp.trace.json
+2025.09.10 22:57:30 INFO  time: Connected to build server in 2.37s
+2025.09.10 22:57:30 INFO  Connected to Build server: scala v1.8.4
+2025.09.10 22:57:31 INFO  compiling scala_beakjoon_9a731beb95-60101c634b (1 scala source)
+2025.09.10 22:57:37 INFO  time: compiled Scala_Beakjoon_9a731beb95-60101c634b in 6.05s
+2025.09.10 22:57:37 INFO  compiling scala_beakjoon_9a731beb95-60101c634b (1 scala source)
+2025.09.10 22:57:39 INFO  time: compiled Scala_Beakjoon_9a731beb95-60101c634b in 2.02s
+2025.09.10 22:57:40 INFO  time: indexed workspace in 9.98s
